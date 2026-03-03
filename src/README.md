@@ -6,7 +6,7 @@ title: 主页
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
 heroText: yliu7949 的笔记
 heroFullScreen: true
-tagline: 口号与标语
+tagline: 微光萌生 Gleamoe
 projects:
   - icon: folder-open
     name: 项目名称
